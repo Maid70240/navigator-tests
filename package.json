@@ -1,0 +1,23 @@
+{
+  "name": "navigator-tests",
+  "version": "1.0.0",
+  "description": "Task for AtlantBh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maid70240/navigator-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maid70240/navigator-tests/issues"
+  },
+  "homepage": "https://github.com/Maid70240/navigator-tests#readme",
+  "devDependencies": {
+    "cypress": "^14.3.2"
+  }
+}
